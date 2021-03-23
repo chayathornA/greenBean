@@ -1,2 +1,0 @@
-# greenBean
-Green bean
